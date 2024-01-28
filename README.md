@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kevin Edwards</h1>
+<h1 align="center">Hi 👋, I'm Danylo M</h1>
 <h3 align="center">Full-Stack | Blockchain | Mobile Developer</h3>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
