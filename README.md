@@ -34,11 +34,10 @@
 
 - 💬 Ask me about **TypeScript, Python, PHP, Node and CI/CD**
 
-- 📫 How to reach me **kevin.bigdream@gmail.com**
+- 📫 How to reach me **danylomiakushchak@gmail.com**
 
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 <br>
-danylomiakushchak@gmail.com
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Kevin Edwards</a></p>
