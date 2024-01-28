@@ -39,6 +39,6 @@
 - 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 <br>
-
+danylomiakushchak@gmail.com
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Kevin Edwards</a></p>
