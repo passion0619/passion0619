@@ -30,7 +30,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [kevin's workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [Danylo's workspace](http://supun.traditionalme.life)
 
 - 💬 Ask me about **TypeScript, Python, PHP, Node and CI/CD**
 
