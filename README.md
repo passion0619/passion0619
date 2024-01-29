@@ -36,8 +36,6 @@
 
 - 📫 How to reach me **danylomiakushchak@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
-
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="right" > Created with 🧡 by <a href="http://supun.traditionalme.life">Danylo Miakushchak</a></p>
