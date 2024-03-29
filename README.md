@@ -35,6 +35,10 @@
 - 💬 Ask me about **TypeScript, Python, PHP, Node and CI/CD**
 
 - 📫 How to reach me **danylomiakushchak@gmail.com**
+  
+- Skype: live:.cid.8b4b7571235e83ed
+
+- Telegram: @danylo0619
 
 <br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
